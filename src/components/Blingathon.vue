@@ -16,7 +16,7 @@
           om eens uit mijn comfortzone te gaan. Samen met mijn vrienden Wannes
           Matthys, Squanto De Temmmerman en Nicholas Martens hebben we ons
           ingeschreven onder de naam Bjebs. Ik wist niet wat ik moest verwachten
-          maar ik had er zin in.
+          maar ik had er zin in. Spijtig genoeg had ik geen foto's kunnen nemen.
         </p>
         <h1 class="font-bold text-lg mb-2">Uitdagingen</h1>
         <p class="mb-2">
