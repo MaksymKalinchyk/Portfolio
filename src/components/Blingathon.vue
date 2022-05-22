@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-  <div class="w-1/2 mt-10 mx-auto border">
+  <div class="lg:w-1/2 md:w-1/2 sm:w-1/2 h-full mt-10 mx-auto border">
     <div class="mx-auto">
       <img class="mx-auto" src="../assets/blingathon_logo.png" alt="" />
       <div class="px-6 py-4 w-full">
