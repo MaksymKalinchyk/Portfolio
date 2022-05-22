@@ -40,7 +40,6 @@
           kunnen meenemen zoals een Microsoft pet, een scherm cleaner en
           allerlei andere accessoires. Ook heb ik een aantal foto's gemaakt.
         </p>
-        <img class="object-contain mx-auto h-1/2 w-1/2 mb-5" src="../assets/cybersec5.PNG">
         <a
           class="underline decoration-pink-500 italic font-bold"
           href="https://www.linkedin.com/in/maksym-kalinchyk/"
