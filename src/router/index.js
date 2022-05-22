@@ -7,6 +7,7 @@ import UCDP from '../components/UCDP.vue'
 import LicenseManager from '../components/LicenseManager.vue'
 import html2pdf from '../components/html2pdf.vue'
 import Cv from '../components/Cv.vue'
+import Website from '../components/Website.vue'
 
 const routes = [
   {
@@ -48,6 +49,11 @@ const routes = [
     path: '/CV',
     name: 'CV',
     component: Cv
+  },
+  {
+    path: '/website',
+    name: 'Website',
+    component: Website
   },
 ]
 const router = createRouter({

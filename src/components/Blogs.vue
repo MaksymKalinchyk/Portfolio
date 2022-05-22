@@ -339,6 +339,33 @@
     <div class="rounded mt-5">
       <h1 class="text-lg text-center font-bold text-xl">About me</h1>
       <div class="flex lg:flex-row md:flex-col sm:flex-col mt-5">
+        <router-link to="website">
+        <div class="card mx-3">
+          <div class="max-w-sm rounded overflow-hidden shadow-lg">
+            <img
+              class="object-contain h-48 w-96"
+              src="../assets/programming.jpg"
+              alt="Sunset in the mountains"
+            />
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Deze website</div>
+              <p class="text-black-700 text-base">
+                <a
+                  class="font-semibold"
+                  href="https://www.linkedin.com/in/maksym-kalinchyk/"
+                  >Follow</a
+                >
+              </p>
+            </div>
+            <div class="px-6 pt-4 pb-2">
+              <span
+                class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-black-700 mr-2 mb-2"
+                >#website</span
+              >
+            </div>
+          </div>
+        </div>
+        </router-link>
         <router-link to="Cv">
           <div class="card mx-3">
             <div class="max-w-sm rounded overflow-hidden shadow-lg">
